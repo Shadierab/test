@@ -2,9 +2,9 @@
 
 # We can add text here as well
 
--Dicks
--Pussy
--rats
+- Dicks
+- Pussy
+- rats
 
 ## Welcome to GitHub Pages
 
